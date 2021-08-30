@@ -1,0 +1,6 @@
+{
+  "appId": "me.glebe.tilemapgame",
+  "appName": "tilemap-game",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
